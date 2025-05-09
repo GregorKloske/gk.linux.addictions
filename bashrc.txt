@@ -1,3 +1,0 @@
-# save the file to the location as "/home/gregor/bashrc"
-
-export PS1='\[\033[0;92m\]\u@\h:\[\033[99m\]\w\[\033[93m\]\$ '
