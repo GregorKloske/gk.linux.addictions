@@ -1,6 +1,3 @@
-# save the file to the location as "/home/gregor/.Xresources"
-# After modifying, update with the command "xrdb -load .Xresources" or "xrdb -merge ~/.Xresources"
-
 ! xterm
 xterm*dynamiccolors:      true
 xterm*utf8:               2
